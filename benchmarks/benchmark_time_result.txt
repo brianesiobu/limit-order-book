@@ -1,0 +1,11 @@
+Benchmark duration: 60 seconds
+Success!
+
+Number of placed orders:    5104157
+Number of cancelled orders: 740152
+Number of matched orders:   3613641
+Number of filled orders:    3993795
+Number of active orders:    370210
+
+Median Place Time:          4476.00 ns
+Median Cancel Time:         541.00 ns

@@ -1,0 +1,13 @@
+Benchmark:          Place Order
+Placed orders:      100000
+Mean Time:          5966.31 ns
+Standard Deviation: 7920.56 ns
+Median Time:        4807.00 ns
+99th Percentile:    19867.00 ns
+
+Benchmark:          Cancel Order
+Cancells:           100000
+Mean Time:          2088.37 ns
+Standard Deviation: 3908.46 ns
+Median Time:        1612.00 ns
+99th Percentile:    6860.00 ns
